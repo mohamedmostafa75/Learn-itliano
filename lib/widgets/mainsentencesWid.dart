@@ -29,6 +29,7 @@ class Mainsentenceswid extends StatelessWidget {
               width: 15,
             ),
             Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(
                   Ensentence,
